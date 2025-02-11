@@ -2,7 +2,8 @@
 *.exe
 
 # Logs and temporary files
-/learning
+learning
+Trip Planner.db
 
 # IDE specific files
 .vscode/    # VS Code
